@@ -2,6 +2,8 @@
 
 一个完全在浏览器中运行的租房对比工具。它不会只比较挂牌月租，而是把真实月成本、首月准备金、通勤、居住体验和租住安全放在一起计算，帮助你更清楚地看见每套房的取舍。
 
+**在线体验：** [https://biscuit823.github.io/rental-decision-helper/](https://biscuit823.github.io/rental-decision-helper/)
+
 ## 主要功能
 
 - 同时比较多套房源，并根据综合评分自动排序
